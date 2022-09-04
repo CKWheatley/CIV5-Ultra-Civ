@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 5:25:03 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_XCOM_ADJECTIVE">
+			<Text>XCOM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_XCOM_DESC">
+			<Text>Extraterrestrial Combat Unit (XCOM)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_XCOM_SHORT_DESC">
+			<Text>XCOM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_XCOM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_XCOM_TEXT_1">
+			<Text>After the destruction of the Temple Ship, the personnel of XCOM found themselves abruptly alone on a new, unfamiliar world, their memories emptied of any knowledge of even basic human technology, without either the Volunteer or the Commander. It was evident they were the victims of some kind of exotic alien technology, but where were they? And how would they get back?[NEWLINE]It was soon discovered by their patrols that, while the outlines of their land mass resembled nothing on Earth, the planet was practically a replica of Earth. Just as importantly, they were not alone...[NEWLINE][NEWLINE]After many years, it was discovered that Bradford and the other base personnel seemed to be immune to aging. Hopes had long ago faded for a quick return to their own planet--or even their own time--but as long as XCOM survived, they could hold onto the hope that one day, they would recover their lost technology, and just maybe find out how to go home.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BRADFORD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BRADFORD_TITLES_1">
+			<Text>Central Officer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BRADFORD_TEXT_1">
+			<Text>Central Officer Bradford was once the beating heart of XCOM, coordinating the administration and operations of the organization, as well as advising the Commander. Now, after being marooned with the rest of XCOM in this new world, Bradford is determined to find a way back to their Earth. With the base personnel seemingly immune to old age, Bradford realizes that as long as XCOM survives--prospers even--they will have as long as they like to plot a return. They will need technology, manpower, resources, and even an empire. Above all, they need to survive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BRADFORD_LIVED">
+			<Text>1980s-Present</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BRADFORD_NAME">
+			<Text>Bradford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADER_BRADFORD_SUBTITLE">
+			<Text>Chief Administrative Officer, XCOM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD">
+			<Text>Bradford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_XCOM_TEXT">
+			<Text>
+				Eternal vigilance, against unknown threats and unknown worlds. Such is the nature of XCOM, which now faces an unanticipated threat.[NEWLINE][NEWLINE] The personnel of XCOM have been thrown by the Temple Ship explosion into a new world, their memories void of even basic human technology. Now, as XCOM struggles merely to survive on this alien world, it is your duty to lead back to greatness. With Dr. Vahlen and Shen at your side, still brilliant but without their previous knowledge, it is your duty to rebuild human technology and civlization, to ensure XCOM prospers in this new world, so that someday it will ahve the technology to finally discover what happened... and maybe even to go back.[NEWLINE][NEWLINE]You are in this for the long haul. Can XCOM stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_0">
+			<Text>Shaojie Zhang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_1">
+			<Text>Annette Durand</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_2">
+			<Text>Matthew Hawkins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_3">
+			<Text>Fatima Tariq</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_4">
+			<Text>Said Tariq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_5">
+			<Text>Piotr Zhedrev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_6">
+			<Text>William Carter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_7">
+			<Text>Thomas Nils</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_8">
+			<Text>Angela Weaver</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_9">
+			<Text>Leon Barnes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_XCOM_10">
+			<Text>Nico DaSilva</Text>
+		</Row>
+	</Language_en_US> 
+</GameData>

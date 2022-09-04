@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy-->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_HOSTILE_1">
+			<Text>You really think that will work? Ha! We'll teach you a lesson.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_HOSTILE_2">
+			<Text>We once defeated aliens with plasma weapons. You think we couldn't defeat you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_WEAK_HOSTILE_1">
+			<Text>XCOM doesn't bow down to those who are stronger, and we win.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_WEAK_HOSTILE_2">
+			<Text>An alien empire with superior technology couldn't beat us. Let's see you try.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Really? Well, it's your empire you're losing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_STRONG_HOSTILE_2">
+			<Text>Don't think our strength will make us overconfident. We'll use every ounce of it to defeat you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DEFEATED_1">
+			<Text>Sigh. Well... I guess that's XCOM, baby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DEFEATED_2">
+			<Text>Don't think you've really defeated us. Have you seen the plot to XCOM2?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_FIRSTGREETING_1">
+			<Text>So it seems there are other humans on this planet. XCOM greets you, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_POLITE_HELLO_1">
+			<Text>Hello, and welcome to XCom HQ. What can I help you with?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_POLITE_HELLO_2">
+			<Text>Good day. Do you have a proposal for cooperation with XCOM?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_NEUTRAL_HELLO_1">
+			<Text>Let's get down to business.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_NEUTRAL_HELLO_2">
+			<Text>Do you have a proposal for us?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HELLO_1">
+			<Text>Oh it's you. What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HELLO_2">
+			<Text>Well, look what the cat dragged in. You want something?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HELLO_3">
+			<Text>You're lucky my soldiers are disciplined, or someone would have already shot you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HELLO_4">
+			<Text>Let's get this over with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BRADFORD_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>We see your troops creeping up on our borders. If you know what'd good for you, you'll back off.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BRADFORD_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You have been settling in lands XCOM planned to use for future expansion. I would recommend you choose some different sites for expansion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_OPEN_BORDERS_EXCHANGE_1">
+			<Text>XCOM feels than an open borders agreement would serve both our interests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_OPEN_BORDERS_EXCHANGE_2">
+			<Text>Let us exchange open borders, so that we may cooperate on military matters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RENEW_DEAL_1">
+			<Text>This deal served both our interests. Let us renew it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RENEW_DEAL_2">
+			<Text>XCOM would like to continue the advantageous exchange of resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WANT_MORE_RENEW_DEAL_1">
+			<Text>This deal no longer seems fair to XCOM. We might be willing to continue it, if you offer us more...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WANT_MORE_RENEW_DEAL_2">
+			<Text>Unfortunately, this deal will not work anymore. Unless you're willing to up your offer...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>The wealth of your people is impressive. In the future, XCOM may want you as a funding country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>The prosperity of your empire impresses XCOM. Perhaps you will share some techniques with an ally?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>The strength and skill of your military has impressed my soldiers. We will be glad to fight at your side in future conflicts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>XCOM values the strength of an ally such as you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>XCOM was founded to defend humanity from aliens. But if you push us... a human threat would probably work too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HUMAN_IS_WARMONGER_2">
+			<Text>XCOM has seen the wars you've started recklessly. Just a warning.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DEC_FRIENDSHIP_1">
+			<Text>Let us make a Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DEC_FRIENDSHIP_2">
+			<Text>Let us let the world know that you and we stand together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I too have made a Declaration of Friendship with {1_CivName} as well. Cooperation like this is what enabled humans to defeat the alien threat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DOF_SO_AI_DOF_2">
+			<Text>We have made made a Declaration of Friendship {1_CivName} too. United we stand, divided we fall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DOFED_FRIEND_1">
+			<Text>It is good that you understand the value of dependable allies. XCOM is friends with {1_CivName} too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DOFED_FRIEND_2">
+			<Text>{1_CivName} is a friend of XCOM as well. Let us work together in the name of mutual security.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_EMBASSY_EXCHANGE_1">
+			<Text>XCOM wishes to exchange embassies to facilitate mutual understanding and security.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_EMBASSY_EXCHANGE_2">
+			<Text>Let us exchange embassies to facilitate diplomacy between our factions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_EMBASSY_OFFER_1">
+			<Text>XCOM would like to send an embassy to your capital, to facilitate mutual diplomacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_EMBASSY_OFFER_2">
+			<Text>XCOM would like you to exchange an embassy in the name of mutual understanding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CAUGHT_YOUR_SPY_1">
+			<Text>We discovered your spy trying to steal proprietary XCOM technology. We dealt with the spy properly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CAUGHT_YOUR_SPY_2">
+			<Text>You really think you could infiltrate XCOM. Let the fate of your spy serve as a warning to others.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_COOP_WAR_1">
+			<Text>It is good to have allies. Together, we will annihilate {1_ThirdPlayerName:textkey}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_COOP_WAR_2">
+			<Text>We thank you for your assistance against {1_ThirdPlayerName:textkey}. XCOM is glad to be friends with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>Okay.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>That is acceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>We agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>Very well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>This works.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>This deal is acceptable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_GENEROUS_1">
+			<Text>That is a generous offer, and I accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_GENEROUS_2">
+			<Text>I accept this friendly offer. XCOM will remember your support.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_LETS_HEAR_IT_1">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_LETS_HEAR_IT_2">
+			<Text>Are you going to say something?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_LETS_HEAR_IT_3">
+			<Text>Do you have any good ideas?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_LETS_HEAR_IT_4">
+			<Text>Sorry, did you say something?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_LETS_HEAR_IT_5">
+			<Text>Okay?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I don't think we can take that deal. Let's talk some more...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>I'm sorry, but that deal is unacceptable. Perhaps if you give us a bit more...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_REJECT_INSULTING_1">
+			<Text>I thought this was a discussion about fair deals. If you want direct assistance, then ask for that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_REJECT_INSULTING_2">
+			<Text>To be frank, it is a bit insulting to think we might accept a deal like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_DEAL_UNCHANGED_1">
+			<Text>Alright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_DEAL_UNCHANGED_2">
+			<Text>That sounds good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_AI_MAKES_OFFER_1">
+			<Text>Let us make a mutually beneficial trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_AI_MAKES_OFFER_2">
+			<Text>XCOM is willing to exchange some of its resources for yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_AI_MAKES_OFFER_3">
+			<Text>How about this deal?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>I'm sorry, that is not on the table. Let's talk about something else.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_NO_DEAL_POSSIBLE_2">
+			<Text>Sorry, we cannot trade that. Let's talk about something else.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_THANKFUL_1">
+			<Text>Thanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_THANKFUL_2">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_THANKFUL_3">
+			<Text>We are deeply obliged to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_PLEASED_1">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_PLEASED_2">
+			<Text>You have our gratitude.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_PLEASED_3">
+			<Text>XCOM will remember your cooperation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_DISAPPOINTED_1">
+			<Text>Hmm, well it's your right to decide, I suppose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_DISAPPOINTED_2">
+			<Text>That is disappointing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_DISAPPOINTED_3">
+			<Text>It's your right, I suppose...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RETURNED_CIVILIAN_1">
+			<Text>XCOM appreciates the return of our civilians. Your generosity will be remembered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RETURNED_CIVILIAN_2">
+			<Text>Thank you for returning our civilians. XCOM will not forget this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RETURNED_CIVILIAN_3">
+			<Text>XCOM owes you a debt for the civilians you have returned to us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RETURNED_CIVILIAN_4">
+			<Text>The civilians you have returned will go a long way towards to improving your reputation around the base.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_NO_PEACE_1">
+			<Text>No, I cannot accept peace. XCOM still has business to settle with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TOO_SOON_NO_PEACE_1">
+			<Text>Tired of the war already? There will be no peace yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DENOUNCE_1">
+			<Text>Your provocative and reckless actions have gone too far. XCOM is warning the world of your perfidy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DENOUNCE_2">
+			<Text>The world will know the depths of your fecklessness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DENOUNCE_3">
+			<Text>XCOM is denouncing your actions, in the faint hope that you will change your behavior.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} has been a thorn in our side for far too long. Will you join me in declaring war?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} has become a danger to us all. Shall we declare war together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_COOP_WAR_REQUEST_3">
+			<Text>The actions of {1_PlayerName:textkey} have gone too far. It is time for us to end this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_GENERIC_1">
+			<Text>Oh, it's you. I guess the comms officer made a mistake again. I don't know how; I'd never talk to someone like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_GENERIC_2">
+			<Text>If you had been around during the alien invasion, the aliens would have conquered country in a week.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_MILITARY_1">
+			<Text>Hmm...you know, if we ever go to war, I think I might try it with only one squad, just to be fair.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_MILITARY_2">
+			<Text>I wonder if the skyranger crew could defeat you on their own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_CULTURE_1">
+			<Text>I'll say one thing for EXALT-they had better taste in art than you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_AT_WAR_HOSTILE_1">
+			<Text>We look forward to your defeat in this war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_AT_WAR_HOSTILE_2">
+			<Text>What do you want? I'm surprised you even dare talk to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DESTRUCTION_LOOMS_1">
+			<Text>I know when I am losing. What will it take for peace?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DESTRUCTION_LOOMS_2">
+			<Text>I've lost too many operatives to this war... please, let us have peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DESTRUCTION_LOOMS_3">
+			<Text>The costs of this war have been too high. Please, let us negotiate peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>XCOM is no stranger to being falsely condemned. Rest assured it will have no effect on us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Being denounced by you is like being denounced by the Ethereals. Utterly meaningless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RESPONSE_TO_BEING_DENOUNCED_3">
+			<Text>I suppose I shouldn't be surprised. You do seem like a liar.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RESPONSE_TO_BEING_DENOUNCED_4">
+			<Text>I suppose you think lying to the world will accomplish much? They know the truth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RESPONSE_TO_BEING_DENOUNCED_5">
+			<Text>I hope the rest of the world can see through your transparent lying.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_REPEAT_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I can't give you enough to make this fair.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_REPEAT_TRADE_1">
+			<Text>Don't make me repeat myself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_REPEAT_TRADE_2">
+			<Text>I told you, this won't work.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_REPEAT_TRADE_3">
+			<Text>Stop reoffering the same deal!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_REPEAT_1">
+			<Text>Hello again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_REPEAT_2">
+			<Text>If you want to join XCOM, you can fill out form 3D. Otherwise, stop coming back here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RESEARCH_AGREEMENT_1">
+			<Text>XCOM needs partners in its research.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_BROKEN_MILITARY_PROMISE_1">
+			<Text>I don't I can trust you again after you broke our promise to go to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WORKING_WITH_1">
+			<Text>Always nice working with you. What do you want to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WORKING_AGAINST_1">
+			<Text>{1_ThirdPlayerName:textkey} continues to be a problem. Can you help?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WORKING_AGAINST_2">
+			<Text>We may need help with {1_ThirdPlayerName:textkey}. Well, what do you want to talk about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_AT_WAR_1">
+			<Text>Good luck with your war, I think. What do you want to talk about?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>I hope your war isn't going well. What do you want?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_REQUEST_1">
+			<Text>XCOM could use your assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_REPEAT_NO_1">
+			<Text>I told you no...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_PLOT_BUYING_WARNING_1">
+			<Text>Your acuqisition of land near XCOM has caused great concern. You should be more careful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SERIOUS_PLOT_BUYING_WARNING_1">
+			<Text>I have to tell you that you can't keep buying land like that, or there will be repurcussions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>You promised to stop acquiring land, and you broke it. I will remember the value of your promises in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>It's finally over.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_PEACE_MADE_BY_HUMAN_GRACIOUS_2">
+			<Text>I hope this foreshadows a new era of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_PEACE_OFFER_1">
+			<Text>I'm tired of taking these losses. Let's end this war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_PEACE_OFFER_2">
+			<Text>I think it's time we stopping fighting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_OPEN_BORDERS_OFFER_1">
+			<Text>Opening our borders to each other will enhance mutual security.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_MINOR_CIV_COMPETITION_1">
+			<Text>I see you're trying to become friends with, uh, {1_MinorCivName:textkey}. XCOM is capable of protecting them without additional assistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_LUXURY_TRADE_1">
+			<Text>Trading some luxuries would improve everyone's living standards.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_KILLED_YOUR_SPY_1">
+			<Text>We have kileld one of your spies trying to steal our secrets. I would recommend you not try that again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_KILLED_PROTECTED_CITY_STATE_1">
+			<Text>XCOM was protecting {@1_MinorCivName}. Your conquest of them serves as a major provocation to XCOM.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_KILLED_MY_SPY_1">
+			<Text>We apologize for the operative that was caught in your territory. We hope you will overlook this unfortunate incident.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_UNHAPPINESS_1">
+			<Text>With how unhappy your people, you'd think they were being ruled by aliens.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_POPULATION_1">
+			<Text>You know that a strong population the heart of a powerful nation, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INSULT_CITIES_1">
+			<Text>If you want your people to have anywhere to live, you have to found more cities. Just some advice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INFLUENTIAL_ON_HUMAN_1">
+			<Text>It is only natural that a facility as advanced as XCOM can spread its culture beyond its borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_INFLUENTIAL_ON_AI_1">
+			<Text>I hope that my people's adoption of your customs doesn't become a security hazard.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Thank you for supporting our proposal to the World Congress. I look forward to working together on future initiatives.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HUMAN_BRADFORD_SUPPORTED_OUR_HOSTING_1">
+			<Text>Thanks for making XCOM the leader of the World Congress. XCOM will do its best to make its leadership justified.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>Thanks. Dr. Vahlen really likes artifacts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>XCOM is not pleased by this offense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_STOP_DIGGING_1">
+			<Text>Your archaeologists have been spotted in our territory digging up historical artifacts. I already have a team working on those artifacts, so please stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_STOP_DIGGING_AGREE_1">
+			<Text>Alright, I guess we won't dig anymore.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_STOP_DIGGING_DISAGREE_1">
+			<Text>Sorry, XCOM needs all the intel it can get.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_STOP_CONVERSIONS_1">
+			<Text>I hate door-to-door preachers. Don't you? Can you tell your missionaries to cool it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>Thanks. My operatives don't like being preached to.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>XCOM is not fond of fanatics...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>No. Come on, it's just some priests. It's not like it matters at all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>Alright, if you're going to ask, I guess I should.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>Well, I can't do anything about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>Thank you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>You voted no our proposal at the {1_LeagueName}. I had more cooperation for the common good than that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_WARNING_GOOD_1">
+			<Text>I'm glad you understand.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_WARNING_GOOD_2">
+			<Text>I'm glad we can work together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_BAD_1">
+			<Text>I'll remember this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_BAD_2">
+			<Text>I don't understand you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_RESPONSE_BAD_3">
+			<Text>This won't encourage cooperation with you in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I hope you know what you're doing, being friends with {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>I'm glad others also understand the menace that {1_CivName} poses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>You denounced {1_CivName}, but they have always been good friends with XCOM. I'm not sure what happened there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>I agree with you that {1_CivName} is not to be trusted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_YES_1">
+			<Text>If we have to...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_YES_2">
+			<Text>If you really need it...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>You're going to demand something like that from someone much stronger?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_WEAK_2">
+			<Text>I'm not sure you understand our respective military strengths. Allow me to make it clear. No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>I can't give you help so soon after the last time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>XCOM can't afford to give away that much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_TOO_MUCH_2">
+			<Text>You're asking for too much. No, sorry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>No. Don't try to threaten me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_HOSTILE_2">
+			<Text>No. Why would I help you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DEMAND_REFUSE_HOSTILE_3">
+			<Text>You're not even an ally of XCOM.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>I'd glad we've reached an understanding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>Well, let the fate of your spies be on your conscience, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>We forced one of your protected accomplices to give us gold. You want to do something about it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>As I expected.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>We'll see about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>We attacked one of your little protected city-states. Care to do anything about it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>I'm not surprised.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>We'll see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_WILL_ACCEPT_SURRENDER_1">
+			<Text>We look forward to receiving your surrender.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_REPEAT_1">
+			<Text>If you have nothing to do, stop bothering me!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_REPEAT_2">
+			<Text>Go away!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>With an army like that, I'm sure someone will get rid of you soon enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>I suppose with only a few cities you'll be easy to wipe out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>If you keep buying so many tiles, I might have to send in some operatives. Just so you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Don't think you can intimidate me with your aggressive expansion. Unfortified bases are easily destroyed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_WORLD_CONQUEST_1">
+			<Text>It is XCOM's destiny to rule this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_WORLD_CONQUEST_2">
+			<Text>It is XCOM's duty to rule thise world, for the betterment of all mankind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_WORLD_CONQUEST_3">
+			<Text>To get back home, XCOM must have all the resources of this planet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_WORLD_CONQUEST_4">
+			<Text>It is necessary for XCOM to rule this world, so that we will be ready for the inevitable alien attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_WORLD_CONQUEST_5">
+			<Text>It is necessary for the good of everyone that XCOM conquer this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_WEAK_BETRAYAL_1">
+			<Text>I'm not usually a fan of sneak attacks, but when it has to be done...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_REGRET_1">
+			<Text>I've grown to respect you over the years, and I'm sorry this had to happen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_REGRET_2">
+			<Text>In other circumstances we could have been friends...I'm sorry it's come to this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_OPPORTUNITY_1">
+			<Text>XCOM must take whatever ooportunities present themselves, even at the cost of existing agreements.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_OPPORTUNITY_2">
+			<Text>XCOM must take whatever chances it can get. Sorry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_LAND_1">
+			<Text>XCOM needs more bases. UNfortunately, you're in the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_LAND_2">
+			<Text>XCOM needs as many resources as it can get, including yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_GENERIC_1">
+			<Text>It is time we dealt with matters on the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_DESPERATE_1">
+			<Text>XCOM has fought wars with long wars before. We must now fight another one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_DESPERATE_2">
+			<Text>The aliens once thought they could conquer us with their power. XCOM taught them otherwise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOW_BETRAYAL_1">
+			<Text>Sometimes in this world, a little deception is necessary for your great goals. I'm sorry you were in the way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DONT_SETTLE_YES_1">
+			<Text>I suppose, but I hope you realize how much XCOM bases contribute to security.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DONT_SETTLE_NO_1">
+			<Text>It's empty land. I don't see why you insist it's yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOF_NOT_HONORED_1">
+			<Text>So you don't value alliances at all.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOF_AI_WAR_REQUEST_1">
+			<Text>I want to talk about something important. {1_CivName} must be destroyed, together. I hope you'll do this for me. (WILL DECLARE WAR IMMEDIATELY)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DOF_DENOUNCE_REQUEST_1">
+			<Text>I want to talk about something important. {1_CivName} is a threat to everyone, and we need to tell the world. I hope you'll do this for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_DISAPPOINTED_1">
+			<Text>I understand, but...I hoped for better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_RESPONSE_DEMAND_1">
+			<Text>XCOM needs resources. I have to ask that you give it to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CULTURE_BOMBED_1">
+			<Text>Your theft of XCOM territory has been noted, and will be remembered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_COOP_WAR_YES_1">
+			<Text>I understand. We will help you fight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_COOP_WAR_SOON_1">
+			<Text>We are glad to help, but we need to prepare. Give me 10 turns, and I will come to you when ready.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_COOP_WAR_NO_1">
+			<Text>Sorry, but I'm not ready to declare war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Are you here about the little spying incident?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>Don't think I will ignore your bullying of {@1_MinorCivName}. You have to stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_WEAK_EXCITED_1">
+			<Text>You think XCOM is weak? You'll soon find out otherwise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_STRONG_EXCITED_1">
+			<Text>Really? Well, I suppose you might think a surprise attack is the only chance you have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_SAD_1">
+			<Text>This betrayal, I... nevermind. XCOM will destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_SAD_2">
+			<Text>I can't believe you would do this. I... am sorry my judgment was so poor. XCOM will destroy you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>Don't think I will ignore you attacking {@1_MinorCivName}. You have to stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>Well now I see how much your promises are worth. XCOM will remember this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TXT_KEY_LEADER_BRADFORD_ATTACKED_EXCITED_1">
+			<Text>We predicted you would attack. Let XCOM teach you a lesson!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_BETRAYED_1">
+			<Text>I can't believe you would do this. Well, it's your grave you're digging.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ATTACKED_BETRAYED_2">
+			<Text>Don't think XCOM will ever forgive this backstab.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>We'll see about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>I'm less surprised than I should be. To war, then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>XCOM sees your units gathering near our borders. I thought I'd let you know your attack isn't a surprise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_AI_DOF_BACKSTAB_1">
+			<Text>I'm sorry, but your alliance with XCOM has proven worthless. It is necessary for us to tell the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_BOOT_KISSING_1">
+			<Text>XCOM is very impressed by your strength, and hopes you will remember that we are only a small special operations organization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_COOP_WAR_TIME_1">
+			<Text>The time has come for war, like you promised.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Your aggressive expansion into land near XCOM has been noted. I hope you'll consider curtailing it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>We have noticed a number of your military units on our borders, and hope it is not a sign of something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your aggressive tile acquisitions will impair relations between us</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_AT_WAR_WANTS_PEACE_1">
+			<Text>This war no longer serves any purpose. Let us end it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DENOUNCED_AI">
+			<Text>You denounced me and still want to talk?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DENOUNCED_BY_AI_1">
+			<Text>You want to talk to me even after I denounced you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>I'm glad we agree about denouncing {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>{1_PlayerName} has been a valuable ally of XCOM, and I'm not sure why you would feel the need to denounce them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>I hope you know what you're doing, being friends with {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>It is good to talk to another friend of {1_PlayerName}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>I would say I'm surprised, but I'm not</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>I guess we'll see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>The people you denounce are usually good allies. I think I need to talk to {1_CivName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_DOFED_ENEMY">
+			<Text>I can't believe you'd be friends with {1_CivName}. I hope you know what you're doing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_KILLED_MINOR_BAD">
+			<Text>I'm not a fan of those who won't listen to reason</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_KILLED_MINOR_GOOD">
+			<Text> Well I'm glad you're willing to listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD">
+			<Text>Thank you for your understanding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is marching an army to sneak attack {2_CityName}. I thought you should know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is sending an army to attack you. I thought you should know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is sending ships to sneak attack {2_CityName}. I thought you should know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY">
+			<Text>Our spies have uncovered that {1_PlayerName} is sending ships to attack you. I thought you should know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_STOP_SPYING_NO">
+			<Text>XCOM operatives conduct operations worldwide, as needed, so no.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_STOP_SPYING_YES">
+			<Text>Well, after that embarrassment, I supposed we have to.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SUSPECT_YOU_OF_SPYING">
+			<Text>Listen, someone has been stealing XCOM technology. Can you promise me that it wasn't you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TOO_SOON_FOR_DOF">
+			<Text>XCOM would like to know more about your faction before agreeing to be allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_HUMAN_CONCESSIONS">
+			<Text>I'm glad you're willing to show your friendship to XCOM.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_TRADE_ACCEPT_AI_DEMAND">
+			<Text>Thanks. I appreciate your willingness to listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WARMONGER">
+			<Text>It is the duty of XCOM to defend the world, including against warmongers like you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WAR_DEMAND_REFUSED">
+			<Text>Well, I guess I'll just attack you instead, friend. If you were really a friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_ATTACKED_YOUR_MINOR">
+			<Text>XCOM has accidentally attacked your protected city-state. I'm sorry about that, and hope it won't impact relations between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_ATTACKED_MINOR_BAD">
+			<Text>I guess we'll have to disagree about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_ATTACKED_MINOR_GOOD">
+			<Text>Thank you for your understanding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_BULLIED_MINOR_BAD">
+			<Text>I guess we'll have to disagree about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_BULLIED_MINOR_GOOD">
+			<Text>Thank you for your understanding.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_BULLIED_YOUR_MINOR">
+			<Text>We accidentally asked for gold from your protected city-state. I'm sorry about that, and hope it won't impact relations between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_DISLIKE_HUMAN_PROPOSAL">
+			<Text>Your World Congress proposal is a clear attack on XCOM, and will not be forgotten.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WE_LIKE_HUMAN_PROPOSAL">
+			<Text>We were pleased by your World Congress proposal and look forward to greater cooperation in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DENOUNCED_ENEMY_OF_AI">
+			<Text>I'm glad you also understood the need to denounce {1_PlayerName}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_GREETING_DENOUNCED_FRIEND_OF_AI">
+			<Text>I hope you knew what you were doing, denouncing {1_PlayerName} like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SO_BE_IT">
+			<Text>So be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY">
+			<Text>Strong leadership is the core of survival. Adopt Autocracy, like we have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM">
+			<Text>We must remember that we defend this world only to defend human freedom. Adopt Freedom, like we have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER">
+			<Text>The capitalist classes are a leech upon the productiveness of the economy. Adopt Order, like we have.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY">
+			<Text>I can only shake my head at my people's demands for Autocracy. Do they really want me to order them around like that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM">
+			<Text>All your talk about freedom has confused my operatives. Now they all want Freedom, as if that's possible in an organization like XCOM.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_CIVIL_RESISTANCE_ON_AI_BY_ORDER">
+			<Text>My workers keep going on strike, because of you! I pay them enough money, but they still want Order!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SAME_POLICIES_AUTOCRACY">
+			<Text>I'm glad we both understand the importance of strong leadership. Autocracy is the way to go.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SAME_POLICIES_FREEDOM">
+			<Text>I'm glad to see you also adopted Freedom. We must remember that we defend this world only to defend human freedom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_SAME_POLICIES_ORDER">
+			<Text>I'm glad to see you understand the importance of maximizing our economic production. Let us work on our five-year-plans together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRADFORD_WARNED_ABOUT_INTRIGUE">
+			<Text>Thanks for telling me. We will be ready for this perfidy from {@1_CivAdjective}.</Text>
+		</Row>
+
+		<!--Skipping PoC and PoS stuff that's no longer used by the game-->
+		
+	</Language_en_US>
+</GameData>

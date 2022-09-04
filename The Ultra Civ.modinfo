@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7b449aab-80b9-49a2-8aa8-e909040ff0cf" version="1">
+  <Properties>
+    <Name>The Ultra Civ</Name>
+    <Teaser>Adds an op civilization</Teaser>
+    <Description>Adds an XCOM-themed civilization to the game, focused on war and late game science. With soundtrack!
+
+Brave New World Only. 
+
+Civ Traits: 
+Leader: Bradford 
+Vigilo Confido: Receive two additional delegates in the World Congress. When killing a non-Barbarian unit, receive 50% of its production cost as Science and as production in your capital.
+
+UB: Foundry. Replaces Workshop. In addition to the usual benefits, receive an addition +1 production, +5% production and +15 exp to units produced in this city.
+
+UB: Xenolab: Replaces Research Lab. In addition to the usual benefits, the Xenolab increases city science output by another +15%, and give units produced in this city the Skyranger promotion (though this still requires Radar to use).
+
+Starting Location: None (XCom can start anywhere!)
+
+Non-steam Download: https://mega.co.nz/#!aUkEAYBI!5vjP6s7MGfydNsBRYc7Tpql3qQ1m7bZWS7Ubg85noT0 . Download into Documents\My Games\Sid Meier's Civilization 5\MODS, then go into the civ 5 mod manager and it should auto-unpack. 
+
+[If you don't like the music, just delete the music folder from Documents\My Games\Sid Meier's Civilization 5\MODS\XCom Civ (v 1). Everything will be fine.] 
+
+ADVERT: Check out my other civs (Cthulhu, Yuno, Misaka, and a Multiplayer Mod Pack maker) in my profile.
+
+Disclaimer: Obviously I own neither Civ 5 nor XCOM, not anything about them.</Description>
+    <Authors>cal</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="FC8E6C29D61CDB97481BCD7B38A00406" import="1">Art/BradfordScene.dds</File>
+    <File md5="79AA1D44AC219AE4158F09665453CF5C" import="1">Art/XCOMAtlas128.dds</File>
+    <File md5="5B99A6AC47C92938CFA8BA96FDEA855C" import="1">Art/XCOMAtlas256.dds</File>
+    <File md5="E55ACAE5CBFDEB9C1F699F5FBA8BA26F" import="1">Art/XCOMAtlas32.dds</File>
+    <File md5="13047CF8E6D44B4348143A537C6982DD" import="1">Art/XCOMAtlas45.dds</File>
+    <File md5="80C6DDB3894DA4285775B1B3BDFE9C74" import="1">Art/XCOMAtlas64.dds</File>
+    <File md5="59B4671E685E8233F44202006DD572F1" import="1">Art/XCOMAtlas80.dds</File>
+    <File md5="FF0EEC343A1A91B0140E4460FAB85369" import="1">Art/XCOMDOM.dds</File>
+    <File md5="8996BE23095730AD3FC1E7AB06CB7FCA" import="1">Art/XCOMIconAlpha128.dds</File>
+    <File md5="90611EBFF685971EFC4CCB7A327691FC" import="1">Art/XCOMIconAlpha16.dds</File>
+    <File md5="57FFF2040054D61D14D23C05C56F25D8" import="1">Art/XCOMIconAlpha24.dds</File>
+    <File md5="D8BBA56D337005646F2AD13FC8AFC3D9" import="1">Art/XCOMIconAlpha32.dds</File>
+    <File md5="2ADF1ABDB785BD09D0D4DF1E566E4241" import="1">Art/XCOMIconAlpha48.dds</File>
+    <File md5="ABDD6590D143F8E5CD456208220BD9E1" import="1">Art/XCOMIconAlpha64.dds</File>
+    <File md5="6BC09B08C280655916DC0DF7EB13ACDD" import="1">Art/XCOMMapImage.dds</File>
+    <File md5="7E0465B0830306254715EC9B5D7D606D" import="1">Art/BradfordScene.xml</File>
+    <File md5="B34ABB04EBC4FE72D94AD66738FB7CBD" import="1">Lua/XCOMKillProduction.lua</File>
+    <File md5="E581288D479A7BD974025D3A7D48B059" import="1">Music/Either/XCOMEither6.mp3</File>
+    <File md5="8B30021927F2C990E4D05CE22AD59CE0" import="1">Music/Either/XCOMEither5.mp3</File>
+    <File md5="83F1A4D96BE37694CC4AAFAB240CE4A9" import="1">Music/Either/XCOMEither4.mp3</File>
+    <File md5="16F9146929FA88196CBC240D30C50328" import="1">Music/Either/XCOMEither3.mp3</File>
+    <File md5="B61FE081F624EF34CC301234F7CA53B6" import="1">Music/Either/XCOMEither2.mp3</File>
+    <File md5="004A5A00CBDD05A236D5C8DA44293EC5" import="1">Music/Either/XCOMEither1.mp3</File>
+    <File md5="4755279284BF7A34F66A14F423C83BA0" import="1">Music/Leaderhead/BradfordWar.mp3</File>
+    <File md5="004A5A00CBDD05A236D5C8DA44293EC5" import="1">Music/Leaderhead/BradfordPeace.mp3</File>
+    <File md5="2659B8BEBC8B441B7216A6D47BCE1646" import="1">Music/Peace/XCOMPeace10.mp3</File>
+    <File md5="EF675FCB20C9EC94AB08F9E4CC6D1526" import="1">Music/Peace/XCOMPeace9.mp3</File>
+    <File md5="FB4421EA28944ADC9CF6C0DF5DBF46BE" import="1">Music/Peace/XCOMPeace8.mp3</File>
+    <File md5="B5BBEFF9B803CA6E8D4E856DAB7ECE02" import="1">Music/Peace/XCOMPeace7.mp3</File>
+    <File md5="D6A0217E63B6E263C15E1D352D85B9BD" import="1">Music/Peace/XCOMPeace6.mp3</File>
+    <File md5="7A08EBC864C098640EB3DEA8825626A1" import="1">Music/Peace/XCOMPeace5.mp3</File>
+    <File md5="959A3F01A79F47572AC96EC2D28BF30D" import="1">Music/Peace/XCOMPeace4.mp3</File>
+    <File md5="9AD4E877BE6C0B679C06A286EB502075" import="1">Music/Peace/XCOMPeace3.mp3</File>
+    <File md5="A088DB9D3396A0B6CEB5D77F545B0CCB" import="1">Music/Peace/XCOMPeace2.mp3</File>
+    <File md5="0B142B8A2D77CAEAC518752B74181195" import="1">Music/Peace/XCOMPeace1.mp3</File>
+    <File md5="10E3B33BC88681152FAA90B3407A5A3F" import="1">Music/War/XCOMWar7.mp3</File>
+    <File md5="5AD16EC8DC4ADDFECAE7D60BCDC4AA4C" import="1">Music/War/XCOMWar6.mp3</File>
+    <File md5="3EC705740E3C00F50432D238D8E47E1F" import="1">Music/War/XCOMWar5.mp3</File>
+    <File md5="57423CD471D4E6736DC85CDFB9EDD3D8" import="1">Music/War/XCOMWar4.mp3</File>
+    <File md5="4755279284BF7A34F66A14F423C83BA0" import="1">Music/War/XCOMWar1.mp3</File>
+    <File md5="9E350CF3F3F98E3337245E6555714702" import="1">Music/War/XCOMWar3.mp3</File>
+    <File md5="0D97FF30680A5F31EE038EB906EF62B0" import="1">Music/War/XCOMWar2.mp3</File>
+    <File md5="004A5A00CBDD05A236D5C8DA44293EC5" import="1">Music/XCOMMenu.mp3</File>
+    <File md5="FA37D77659A2445330FF76792B3BD619" import="0">Music/XCOMSoundtrack.xml</File>
+    <File md5="55D3DB16943AB277207C0C43C0D76F45" import="0">XML/Buildings/XCOM_Buildings.xml</File>
+    <File md5="B3DF8CB46DA73FB22E1FB0B1AF671FB7" import="0">XML/Civilizations/Civ_XCOM.xml</File>
+    <File md5="C90184102FBC732F6E0D38D059254E8D" import="0">XML/Civilizations/XCOM Trait.xml</File>
+    <File md5="CB60947EB9ECF663E12BF3FAFC917DE0" import="0">XML/GameInfo/XCOMIconTextureAtlases.xml</File>
+    <File md5="E4CBB27559629051E3D1FF7AE953078B" import="0">XML/Leaders/Civ5_Bradford.xml</File>
+    <File md5="12FD1B2BBDCE1F30893F634F0FF5B4E9" import="0">XML/Leaders/BradfordDiplomacy.xml</File>
+    <File md5="0968DEEE34647F6638C9C816F296FB3C" import="0">XML/NewText/XCOM_Buildings_Text.xml</File>
+    <File md5="E157F087A308A15A029D33E536A04D18" import="0">XML/NewText/XCOM_CIties_Text.xml</File>
+    <File md5="F2D04E0779889C89385A528D16EFC18A" import="0">XML/NewText/XCOM_Text.xml</File>
+    <File md5="FCC3A33BA6D53FC5E84042BCE8BB6AC5" import="0">XML/NewText/XCOM_Trait_Text.xml</File>
+    <File md5="941E58A0DF2F84A46C00982B8AE3EE73" import="0">XML/NewText/XCOMDiplomacyText.xml</File>
+    <File md5="90B0392C0B19AFDDF9046244BFAF4F39" import="0">XML/Promotions/XCOM_Promotions.xml</File>
+    <File md5="B3AA79F7D39B23BC43F769A0CBE1FB92" import="0">XML/improvements/Barrage.xml</File>
+    <File md5="81B7C926C2FD44DDEAA7FBC248D3E8E3" import="0">XML/improvements/MountainFarm.xml</File>
+    <File md5="B23DE4C0F79D0216E99704C19DBE8C19" import="0">XML/improvements/JungleCamp.xml</File>
+    <File md5="4E7F44F1B4791152519007AB65C00530" import="0">XML/improvements/Mansion.xml</File>
+    <File md5="41977F391035B69EC81DAC104D67CD03" import="0">XML/improvements/Silo.xml</File>
+    <File md5="7A3D16878E6149D72AD49A372737B4F8" import="0">XML/improvements/Totem.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Buildings/XCOM_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_XCOM.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/XCOM Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/XCOMIconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Civ5_Bradford.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/BradfordDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/XCOM_CIties_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/XCOM_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/XCOM_Buildings_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/XCOM_Trait_Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/XCOMDiplomacyText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Promotions/XCOM_Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>Music/XCOMSoundtrack.xml</UpdateDatabase>
+      <UpdateDatabase>XML/improvements/JungleCamp.xml</UpdateDatabase>
+      <UpdateDatabase>XML/improvements/Barrage.xml</UpdateDatabase>
+      <UpdateDatabase>XML/improvements/Mansion.xml</UpdateDatabase>
+      <UpdateDatabase>XML/improvements/Silo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/improvements/Totem.xml</UpdateDatabase>
+      <UpdateDatabase>XML/improvements/MountainFarm.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/XCOMKillProduction.lua">
+      <Name>Xcom Kill Production</Name>
+      <Description>Xcom Kill Production</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

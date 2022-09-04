@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Improvements>
+    <Row>
+      <Type>IMPROVEMENT_TOTEM</Type>
+      <Description>TXT_KEY_IMPROVEMENT_TOTEM</Description>
+      <Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_TOTEM_TEXT</Civilopedia>
+      <Help>TXT_KEY_CIV5_IMPROVEMENTS_TOTEM_HELP</Help>
+      <ArtDefineTag>ART_DEF_IMPROVEMENT_MOAI_STATUES</ArtDefineTag>
+      <WorldSoundscapeAudioScript></WorldSoundscapeAudioScript>
+      <ImprovementPillage></ImprovementPillage>
+      <ImprovementUpgrade></ImprovementUpgrade>
+      <SpecificCivRequired>1</SpecificCivRequired>
+      <CivilizationType>CIVILIZATION_XCOM</CivilizationType>
+      <HillsMakesValid>0</HillsMakesValid>
+      <FreshWaterMakesValid>0</FreshWaterMakesValid>
+      <RiverSideMakesValid>0</RiverSideMakesValid>
+      <NoFreshWater>0</NoFreshWater>
+      <RequiresFlatlands>0</RequiresFlatlands>
+      <RequiresFlatlandsOrFreshWater>0</RequiresFlatlandsOrFreshWater>
+      <RequiresFeature>0</RequiresFeature>
+      <RequiresImprovement>0</RequiresImprovement>
+      <RemovesResource>0</RemovesResource>
+      <PromptWhenComplete>0</PromptWhenComplete>
+      <Coastal>1</Coastal>
+      <Water>0</Water>
+      <DestroyedWhenPillaged>0</DestroyedWhenPillaged>
+      <DisplacePillager>0</DisplacePillager>
+      <BuildableOnResources>1</BuildableOnResources>
+      <BarbarianCamp>0</BarbarianCamp>
+      <Goody>0</Goody>
+      <Permanent>0</Permanent>
+      <OutsideBorders>0</OutsideBorders>
+      <InAdjacentFriendly>0</InAdjacentFriendly>
+      <IgnoreOwnership>0</IgnoreOwnership>
+      <OnlyCityStateTerritory>0</OnlyCityStateTerritory>
+      <GraphicalOnly>0</GraphicalOnly>
+      <CreatedByGreatPerson>0</CreatedByGreatPerson>
+      <NoTwoAdjacent>0</NoTwoAdjacent>
+      <AdjacentLuxury>0</AdjacentLuxury>
+      <AllowsWalkWater>0</AllowsWalkWater>
+      <CultureAdjacentSameType>1</CultureAdjacentSameType>
+      <TilesPerGoody>0</TilesPerGoody>
+      <GoodyRange>0</GoodyRange>
+      <FeatureGrowth>0</FeatureGrowth>
+      <UpgradeTime>0</UpgradeTime>
+      <RiverSideUpgradeMod>0</RiverSideUpgradeMod>
+      <CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
+      <HillsUpgradeMod>0</HillsUpgradeMod>
+      <FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
+      <DefenseModifier>0</DefenseModifier>
+      <NearbyEnemyDamage>0</NearbyEnemyDamage>
+      <PillageGold>10</PillageGold>
+      <ResourceExtractionMod>0</ResourceExtractionMod>
+      <LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
+      <GoldMaintenance>0</GoldMaintenance>
+      <CultureBombRadius>0</CultureBombRadius>
+      <RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>DLC03_TERRAIN_ATLAS</IconAtlas>
+    </Row>
+  </Improvements>
+
+  <!-- Improvement_Flavors -->
+  <Improvement_Yields>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <YieldType>YIELD_CULTURE</YieldType>
+      <Yield>3</Yield>
+    </Row>
+  </Improvement_Yields>
+  <!-- Improvement_YieldPerEra -->
+  <!-- Improvement_AdjacentCityYields -->
+  <!-- Improvement_CoastalLandYields -->
+  <!-- Improvement_FreshWaterYields -->
+  <!-- Improvement_HillsYields -->
+  <!-- Improvement_AdjacentMountainYieldChanges -->
+  <!-- Improvement_PrereqNatureYields -->
+  <!-- Improvement_RiverSideYields -->
+  <Improvement_ValidTerrains>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TerrainType>TERRAIN_GRASS</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TerrainType>TERRAIN_PLAINS</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TerrainType>TERRAIN_DESERT</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TerrainType>TERRAIN_TUNDRA</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TerrainType>TERRAIN_SNOW</TerrainType>
+    </Row>
+  </Improvement_ValidTerrains>
+  <!-- Improvement_ValidFeatures -->
+  <!-- Improvement_ValidImprovements -->
+  <!-- Improvement_ResourceTypes -->
+  <!-- Improvement_ResourceType_Yields -->
+  <!-- Improvement_RouteYieldChanges -->
+  <Improvement_TechYieldChanges>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TechType>TECH_FLIGHT</TechType>
+      <YieldType>YIELD_GOLD</YieldType>
+      <Yield>10</Yield>
+    </Row>
+
+      <Row>
+    	  <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+    	  <TechType>TECH_FUTURE_TECH</TechType>
+    	  <YieldType>YIELD_GOLD</YieldType>
+    	  <Yield>4</Yield>
+    	</Row>
+    	<Row>
+    	  <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+    	  <TechType>TECH_FUTURE_TECH</TechType>
+    	  <YieldType>YIELD_FAITH</YieldType>
+    	  <Yield>4</Yield>
+    	</Row>
+    	<Row>
+    	  <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+    	  <TechType>TECH_FUTURE_TECH</TechType>
+    	  <YieldType>YIELD_CULTURE</YieldType>
+    	  <Yield>4</Yield>
+    	</Row>
+  </Improvement_TechYieldChanges>
+  <!-- Improvement_TechNoFreshWaterYieldChanges -->
+  <!-- Improvement_TechFreshWaterYieldChanges -->
+	<Builds>
+		<Row>
+			<Type>BUILD_TOTEM</Type>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<Time>500</Time>
+			<ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+			<Description>TXT_KEY_BUILD_TOTEM</Description>
+			<Help>TXT_KEY_BUILD_TOTEM_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_TOTEM_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_T</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>DLC03_TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_TOTEM</BuildType>
+		</Row>
+	</Unit_Builds>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_IMPROVEMENT_TOTEM">
+      <Text>Totem</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TOTEM_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_TOTEM_HELP">
+      <Text>Totem can only be built on the coast.  If built next to another Moai, it provides additional [ICON_CULTURE] Culture. After the Flight technology is researched it also provides extra [ICON_GOLD] Gold.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

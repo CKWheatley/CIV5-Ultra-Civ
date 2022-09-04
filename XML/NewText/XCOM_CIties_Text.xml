@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 7:05:53 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_XCOM_HQ">
+			<Text>XCOM HQ</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XCOM_NIGERIA_BASE">
+			<Text>XCOM Nigeria Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XCOM_BRAZIL_BASE">
+			<Text>XCOM Brazil Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XCOM_GERMANY_BASE">
+			<Text>XCOM Germany Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XCOM_JAPAN_BASE">
+			<Text>XCOM Japan Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_XCOM_UNITED_STATES_BASE">
+			<Text>XCOM United States Base</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEGA_PRIMUS">
+			<Text>Mega Primus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_KIRYU_KAI">
+			<Text>Kiryu Kai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_AVENGER">
+			<Text>Avenger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LEVIATHAN">
+			<Text>Leviathan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VAN_DOORN_CITY">
+			<Text>Van Doorn City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NEW_ROSEMONT">
+			<Text>New Rosemont</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

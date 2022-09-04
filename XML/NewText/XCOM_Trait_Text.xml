@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 7:10:53 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TRAIT_VIGILO_CONFIDO">
+			<Text>Receive two additional delegates in the World Congress. When killing a non-Barbarian unit, receive 50% of its [ICON_PRODUCTION] Production cost as [ICON_RESEARCH] Science and as [ICON_PRODUCTION] Production in your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VIGILO_CONFIDO_SHORT">
+			<Text>Vigilo Confido</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Improvements>
+    <Row>
+      <Type>IMPROVEMENT_SILO</Type>
+      <Description>TXT_KEY_IMPROVEMENT_SILO</Description>
+      <Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_SILO_TEXT</Civilopedia>
+      <Help>TXT_KEY_CIV5_IMPROVEMENTS_SILO_HELP</Help>
+      <ArtDefineTag>ART_DEF_IMPROVEMENT_KASBAH</ArtDefineTag>
+      <WorldSoundscapeAudioScript></WorldSoundscapeAudioScript>
+      <ImprovementPillage></ImprovementPillage>
+      <ImprovementUpgrade></ImprovementUpgrade>
+      <SpecificCivRequired>1</SpecificCivRequired>
+      <CivilizationType>CIVILIZATION_XCOM</CivilizationType>
+      <HillsMakesValid>0</HillsMakesValid>
+      <FreshWaterMakesValid>0</FreshWaterMakesValid>
+      <RiverSideMakesValid>0</RiverSideMakesValid>
+      <NoFreshWater>0</NoFreshWater>
+      <RequiresFlatlands>0</RequiresFlatlands>
+      <RequiresFlatlandsOrFreshWater>0</RequiresFlatlandsOrFreshWater>
+      <RequiresFeature>0</RequiresFeature>
+      <RequiresImprovement>0</RequiresImprovement>
+      <RemovesResource>0</RemovesResource>
+      <PromptWhenComplete>0</PromptWhenComplete>
+      <Coastal>0</Coastal>
+      <Water>0</Water>
+      <DestroyedWhenPillaged>0</DestroyedWhenPillaged>
+      <DisplacePillager>0</DisplacePillager>
+      <BuildableOnResources>0</BuildableOnResources>
+      <BarbarianCamp>0</BarbarianCamp>
+      <Goody>0</Goody>
+      <Permanent>0</Permanent>
+      <OutsideBorders>0</OutsideBorders>
+      <InAdjacentFriendly>0</InAdjacentFriendly>
+      <IgnoreOwnership>0</IgnoreOwnership>
+      <OnlyCityStateTerritory>0</OnlyCityStateTerritory>
+      <GraphicalOnly>0</GraphicalOnly>
+      <CreatedByGreatPerson>0</CreatedByGreatPerson>
+      <NoTwoAdjacent>0</NoTwoAdjacent>
+      <AdjacentLuxury>0</AdjacentLuxury>
+      <AllowsWalkWater>0</AllowsWalkWater>
+      <CultureAdjacentSameType>0</CultureAdjacentSameType>
+      <TilesPerGoody>0</TilesPerGoody>
+      <GoodyRange>0</GoodyRange>
+      <FeatureGrowth>0</FeatureGrowth>
+      <UpgradeTime>0</UpgradeTime>
+      <RiverSideUpgradeMod>0</RiverSideUpgradeMod>
+      <CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
+      <HillsUpgradeMod>0</HillsUpgradeMod>
+      <FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
+      <DefenseModifier>50</DefenseModifier>
+      <NearbyEnemyDamage>0</NearbyEnemyDamage>
+      <PillageGold>10</PillageGold>
+      <ResourceExtractionMod>0</ResourceExtractionMod>
+      <LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
+      <GoldMaintenance>0</GoldMaintenance>
+      <CultureBombRadius>0</CultureBombRadius>
+      <RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+      <PortraitIndex>4</PortraitIndex>
+      <IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_EXP2</IconAtlas>
+    </Row>
+  </Improvements>
+
+  <!-- Improvement_Flavors -->
+  <Improvement_Yields>
+    <Row>
+      <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+      <YieldType>YIELD_FOOD</YieldType>
+      <Yield>4</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+      <YieldType>YIELD_PRODUCTION</YieldType>
+      <Yield>5</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+      <YieldType>YIELD_GOLD</YieldType>
+      <Yield>4</Yield>
+    </Row>
+  </Improvement_Yields>
+  <Improvement_TechYieldChanges>
+		<Row>
+    	  <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+    	  <TechType>TECH_FUTURE_TECH</TechType>
+    	  <YieldType>YIELD_GOLD</YieldType>
+    	  <Yield>2</Yield>
+    	</Row>
+    	<Row>
+    	  <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+    	  <TechType>TECH_FUTURE_TECH</TechType>
+    	  <YieldType>YIELD_SCIENCE</YieldType>
+    	  <Yield>2</Yield>
+    	</Row>
+    	<Row>
+    	  <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+    	  <TechType>TECH_FUTURE_TECH</TechType>
+    	  <YieldType>YIELD_PRODUCTION</YieldType>
+    	  <Yield>2</Yield>
+    	</Row>
+    	<Row>
+    	  <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+    	  <TechType>TECH_FUTURE_TECH</TechType>
+    	  <YieldType>YIELD_FOOD</YieldType>
+    	  <Yield>2</Yield>
+    	</Row>
+	</Improvement_TechYieldChanges>
+  <!-- Improvement_YieldPerEra -->
+  <!-- Improvement_AdjacentCityYields -->
+  <!-- Improvement_CoastalLandYields -->
+  <!-- Improvement_FreshWaterYields -->
+  <!-- Improvement_HillsYields -->
+  <!-- Improvement_AdjacentMountainYieldChanges -->
+  <!-- Improvement_PrereqNatureYields -->
+  <!-- Improvement_RiverSideYields -->
+  <Improvement_ValidTerrains>
+    <Row>
+      <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+      <TerrainType>TERRAIN_DESERT</TerrainType>
+    </Row>
+  </Improvement_ValidTerrains>
+  <!-- Improvement_ValidFeatures -->
+  <!-- Improvement_ValidImprovements -->
+  <!-- Improvement_ResourceTypes -->
+  <!-- Improvement_ResourceType_Yields -->
+  <!-- Improvement_RouteYieldChanges -->
+  <!-- Improvement_TechYieldChanges -->
+  <!-- Improvement_TechNoFreshWaterYieldChanges -->
+  <!-- Improvement_TechFreshWaterYieldChanges -->
+	<Builds>
+		<Row>
+			<Type>BUILD_SILO</Type>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+			<Time>500</Time>
+			<ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+			<Description>TXT_KEY_BUILD_SILO</Description>
+			<Help>TXT_KEY_BUILD_SILO_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_SILO_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_S</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>4</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</Builds>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_SILO</BuildType>
+		</Row>
+	</Unit_Builds>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_IMPROVEMENT_SILO">
+      <Text>Silo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SILO_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_SILO_HELP">
+      <Text>A Silo can only be built on a Desert tile.  It provides four additional [ICON_FOOD] Food, [ICON_PRODUCTION] Production, and [ICON_GOLD] Gold. It also provides the same +50% defense bonus as a Fort. Must be built in Moroccan territory.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/12/2014 7:05:53 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- TXT_KEY_XCOM_TRAIT_BUILDING, TXT_KEY_BUILDING_XCOM_TRAIT_BUILDING_HELP (Desc,Pedia,Strategy)-->
+		<!-- Foundry, Xenolab-->
+		<Row Tag="TXT_KEY_BUILDING_TRAIT_BUILDING">
+			<Text>Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOM_TRAIT_BUILDING_HELP">
+			<Text>Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOM_TRAIT_BUILDING_DESC">
+			<Text>Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOM_TRAIT_BUILDING_HELP_PEDIA">
+			<Text>Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOM_TRAIT_BUILDING_STRATEGY">
+			<Text>Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOMFOUNDRY_STRATEGY">
+			<Text>The XCOM replacement for the Workshop, the Foundry provides additional production as well as exp for military units. A necessity for builders and conquerors alike.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOMFOUNDRY_HELP">
+			<Text>Unique XCOM replacement for the Workshop. Units produced in this city receive an additional +15 XP.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOMFOUNDRY_PEDIA">
+			<Text>XCOM has always relied on the cutting edge in weapons, armor, and equipment, and the additional of a Foundry allows for the experimental modification of equipment to better combat the alien threat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XCOMFOUNDRY_DESC">
+			<Text>Foundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XENOLAB_STRATEGY">
+			<Text>The XCOM replacement for the Research Lab, the Xenolab is the key science building of the late game, and also provides a significant boon to those determined to conquer by providing all new units with the ability to use the Skyranger, once Radar is researched.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XENOLAB_HELP">
+			<Text>Unique XCOM replacement for the Research Lab.[NEWLINE][NEWLINE]Units produced in this city receive the Skyranger promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XENOLAB_PEDIA">
+			<Text>The XCOM replacement for the research lab, the Xenolab houses some of the worlds brightest researchers, and focuses on investigation of the technology used by the alien threat. Led by Dr. Vahlen, the laboratories of XCOM make breakthroughs in record time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_XENOLAB_DESC">
+			<Text>Xenolab</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

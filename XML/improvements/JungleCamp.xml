@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Improvements>
+    <Row>
+      <Type>IMPROVEMENT_JUNGLE_CAMP</Type>
+      <Description>TXT_KEY_IMPROVEMENT_JUNGLE_CAMP</Description>
+      <Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_JUNGLE_CAMP_TEXT</Civilopedia>
+      <Help>TXT_KEY_CIV5_IMPROVEMENTS_JUNGLE_CAMP_HELP</Help>
+      <ArtDefineTag>ART_DEF_IMPROVEMENT_BRAZILWOOD_CAMP</ArtDefineTag>
+      <WorldSoundscapeAudioScript></WorldSoundscapeAudioScript>
+      <ImprovementPillage></ImprovementPillage>
+      <ImprovementUpgrade></ImprovementUpgrade>
+      <SpecificCivRequired>1</SpecificCivRequired>
+      <CivilizationType>CIVILIZATION_XCOM</CivilizationType>
+      <HillsMakesValid>0</HillsMakesValid>
+      <FreshWaterMakesValid>0</FreshWaterMakesValid>
+      <RiverSideMakesValid>0</RiverSideMakesValid>
+      <NoFreshWater>0</NoFreshWater>
+      <RequiresFlatlands>0</RequiresFlatlands>
+      <RequiresFlatlandsOrFreshWater>0</RequiresFlatlandsOrFreshWater>
+      <RequiresFeature>1</RequiresFeature>
+      <RequiresImprovement>0</RequiresImprovement>
+      <RemovesResource>0</RemovesResource>
+      <PromptWhenComplete>0</PromptWhenComplete>
+      <Coastal>0</Coastal>
+      <Water>0</Water>
+      <DestroyedWhenPillaged>0</DestroyedWhenPillaged>
+      <DisplacePillager>0</DisplacePillager>
+      <BuildableOnResources>0</BuildableOnResources>
+      <BarbarianCamp>0</BarbarianCamp>
+      <Goody>0</Goody>
+      <Permanent>0</Permanent>
+      <OutsideBorders>0</OutsideBorders>
+      <InAdjacentFriendly>0</InAdjacentFriendly>
+      <IgnoreOwnership>0</IgnoreOwnership>
+      <OnlyCityStateTerritory>0</OnlyCityStateTerritory>
+      <GraphicalOnly>0</GraphicalOnly>
+      <CreatedByGreatPerson>0</CreatedByGreatPerson>
+      <NoTwoAdjacent>0</NoTwoAdjacent>
+      <AdjacentLuxury>0</AdjacentLuxury>
+      <AllowsWalkWater>0</AllowsWalkWater>
+      <CultureAdjacentSameType>0</CultureAdjacentSameType>
+      <TilesPerGoody>0</TilesPerGoody>
+      <GoodyRange>0</GoodyRange>
+      <FeatureGrowth>0</FeatureGrowth>
+      <UpgradeTime>0</UpgradeTime>
+      <RiverSideUpgradeMod>0</RiverSideUpgradeMod>
+      <CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
+      <HillsUpgradeMod>0</HillsUpgradeMod>
+      <FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
+      <DefenseModifier>0</DefenseModifier>
+      <NearbyEnemyDamage>0</NearbyEnemyDamage>
+      <PillageGold>10</PillageGold>
+      <ResourceExtractionMod>0</ResourceExtractionMod>
+      <LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
+      <GoldMaintenance>0</GoldMaintenance>
+      <CultureBombRadius>0</CultureBombRadius>
+      <RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+      <PortraitIndex>1</PortraitIndex>
+      <IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_EXP2</IconAtlas>
+    </Row>
+  </Improvements>
+
+  <!-- Improvement_Flavors -->
+  <Improvement_Yields>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <YieldType>YIELD_GOLD</YieldType>
+      <Yield>4</Yield>
+    </Row>
+  </Improvement_Yields>
+  <!-- Improvement_YieldPerEra -->
+  <!-- Improvement_AdjacentCityYields -->
+  <!-- Improvement_CoastalLandYields -->
+  <!-- Improvement_FreshWaterYields -->
+  <!-- Improvement_HillsYields -->
+  <!-- Improvement_AdjacentMountainYieldChanges -->
+  <!-- Improvement_PrereqNatureYields -->
+  <!-- Improvement_RiverSideYields -->
+  <!-- Improvement_ValidTerrains -->
+  <Improvement_ValidFeatures>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <FeatureType>FEATURE_JUNGLE</FeatureType>
+    </Row>
+	  <Row>
+		  <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+		  <FeatureType>FEATURE_FOREST</FeatureType>
+	  </Row>
+  </Improvement_ValidFeatures>
+  <!-- Improvement_ValidImprovements -->
+  <!-- Improvement_ResourceTypes -->
+  <!-- Improvement_ResourceType_Yields -->
+  <!-- Improvement_RouteYieldChanges -->
+  <Improvement_TechYieldChanges>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <TechType>TECH_ACOUSTICS</TechType>
+      <YieldType>YIELD_CULTURE</YieldType>
+      <Yield>4</Yield>
+    </Row>
+
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_GOLD</YieldType>
+      <Yield>2</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_SCIENCE</YieldType>
+      <Yield>2</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_PRODUCTION</YieldType>
+      <Yield>3</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_FOOD</YieldType>
+      <Yield>3</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_FAITH</YieldType>
+      <Yield>2</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_CULTURE</YieldType>
+      <Yield>2</Yield>
+    </Row>
+    
+  </Improvement_TechYieldChanges>
+  <!-- Improvement_TechNoFreshWaterYieldChanges -->
+  <!-- Improvement_TechFreshWaterYieldChanges -->
+	<Builds>
+		<Row>
+			<Type>BUILD_JUNGLE_CAMP</Type>
+			<PrereqTech>TECH_GUILDS</PrereqTech>
+			<Time>500</Time>
+			<ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
+			<Description>TXT_KEY_BUILD_JUNGLE_CAMP</Description>
+			<Help>TXT_KEY_BUILD_JUNGLE_CAMP_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_JUNGLE_CAMP_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_J</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>1</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</Builds>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_JUNGLE_CAMP</BuildType>
+		</Row>
+	</Unit_Builds>
+  <Language_en_US>
+    <Row Tag="TXT_KEY_IMPROVEMENT_JUNGLE_CAMP">
+      <Text>Jungle Camp</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_JUNGLE_CAMP_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_JUNGLE_CAMP_HELP">
+      <Text>A Jungle Camp can only be built on a Jungle or Forest tile.  It provides additional [ICON_GOLD] Gold. After the Acoustics technology is researched it also provides extra [ICON_CULTURE] Culture.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>
