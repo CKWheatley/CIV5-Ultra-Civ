@@ -99,7 +99,7 @@
       <YieldType>YIELD_CULTURE</YieldType>
       <Yield>4</Yield>
     </Row>
-
+<!--
     <Row>
       <ImprovementType>IMPROVEMENT_JUNGLE_CAMP</ImprovementType>
       <TechType>TECH_FUTURE_TECH</TechType>
@@ -136,7 +136,7 @@
       <YieldType>YIELD_CULTURE</YieldType>
       <Yield>2</Yield>
     </Row>
-    
+-->
   </Improvement_TechYieldChanges>
   <!-- Improvement_TechNoFreshWaterYieldChanges -->
   <!-- Improvement_TechFreshWaterYieldChanges -->

@@ -105,7 +105,7 @@
       <YieldType>YIELD_GOLD</YieldType>
       <Yield>6</Yield>
     </Row>
-
+  <!--
     <Row>
       <ImprovementType>IMPROVEMENT_BARRAGE</ImprovementType>
       <TechType>TECH_FUTURE_TECH</TechType>
@@ -142,7 +142,7 @@
       <YieldType>YIELD_CULTURE</YieldType>
       <Yield>1</Yield>
     </Row>
-    
+    -->
   </Improvement_TechYieldChanges>
   <!-- Improvement_TechNoFreshWaterYieldChanges -->
   <!-- Improvement_TechFreshWaterYieldChanges -->

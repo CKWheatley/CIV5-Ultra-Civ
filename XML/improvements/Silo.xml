@@ -80,6 +80,7 @@
     </Row>
   </Improvement_Yields>
   <Improvement_TechYieldChanges>
+  <!--
 		<Row>
     	  <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
     	  <TechType>TECH_FUTURE_TECH</TechType>
@@ -104,6 +105,7 @@
     	  <YieldType>YIELD_FOOD</YieldType>
     	  <Yield>2</Yield>
     	</Row>
+    -->
 	</Improvement_TechYieldChanges>
   <!-- Improvement_YieldPerEra -->
   <!-- Improvement_AdjacentCityYields -->
@@ -117,6 +119,14 @@
     <Row>
       <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
       <TerrainType>TERRAIN_DESERT</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+      <TerrainType>TERRAIN_GRASS</TerrainType>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_SILO</ImprovementType>
+      <TerrainType>TERRAIN_PLAINS</TerrainType>
     </Row>
   </Improvement_ValidTerrains>
   <!-- Improvement_ValidFeatures -->

@@ -103,6 +103,10 @@
 			<ImprovementType>IMPROVEMENT_MOUNTAIN_FARM</ImprovementType>
 			<TerrainType>TERRAIN_HILL</TerrainType>
 		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MOUNTAIN_FARM</ImprovementType>
+			<TerrainType>TERRAIN_MOUNTAIN</TerrainType>
+		</Row>
 	</Improvement_ValidTerrains>
 	<!-- Improvement_ValidFeatures -->
 	<!-- Improvement_ValidImprovements -->
@@ -139,6 +143,7 @@
 		</Row>
 	</Improvement_TechFreshWaterYieldChanges>
 	<Improvement_TechYieldChanges>
+	<!--
 		<Row>
     	  <ImprovementType>IMPROVEMENT_MOUNTAIN_FARM</ImprovementType>
     	  <TechType>TECH_FUTURE_TECH</TechType>
@@ -169,6 +174,7 @@
     	  <YieldType>YIELD_CULTURE</YieldType>
     	  <Yield>2</Yield>
     	</Row>
+	-->
 	</Improvement_TechYieldChanges>
 	<Builds>
 		<Row>

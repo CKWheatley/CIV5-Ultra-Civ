@@ -122,7 +122,7 @@
       <YieldType>YIELD_GOLD</YieldType>
       <Yield>8</Yield>
     </Row>
-
+  <!--
     <Row>
       <ImprovementType>IMPROVEMENT_MANSION</ImprovementType>
       <TechType>TECH_FUTURE_TECH</TechType>
@@ -159,7 +159,7 @@
       <YieldType>YIELD_CULTURE</YieldType>
       <Yield>2</Yield>
     </Row>
-
+  -->
 
   </Improvement_TechYieldChanges>
   <!-- Improvement_TechNoFreshWaterYieldChanges -->

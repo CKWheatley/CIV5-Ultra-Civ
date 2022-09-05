@@ -111,25 +111,26 @@
       <YieldType>YIELD_GOLD</YieldType>
       <Yield>10</Yield>
     </Row>
-
-      <Row>
-    	  <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
-    	  <TechType>TECH_FUTURE_TECH</TechType>
-    	  <YieldType>YIELD_GOLD</YieldType>
-    	  <Yield>4</Yield>
-    	</Row>
-    	<Row>
-    	  <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
-    	  <TechType>TECH_FUTURE_TECH</TechType>
-    	  <YieldType>YIELD_FAITH</YieldType>
-    	  <Yield>4</Yield>
-    	</Row>
-    	<Row>
-    	  <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
-    	  <TechType>TECH_FUTURE_TECH</TechType>
-    	  <YieldType>YIELD_CULTURE</YieldType>
-    	  <Yield>4</Yield>
-    	</Row>
+    <!--
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_GOLD</YieldType>
+      <Yield>4</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_FAITH</YieldType>
+      <Yield>4</Yield>
+    </Row>
+    <Row>
+      <ImprovementType>IMPROVEMENT_TOTEM</ImprovementType>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <YieldType>YIELD_CULTURE</YieldType>
+      <Yield>4</Yield>
+    </Row>
+    -->
   </Improvement_TechYieldChanges>
   <!-- Improvement_TechNoFreshWaterYieldChanges -->
   <!-- Improvement_TechFreshWaterYieldChanges -->
